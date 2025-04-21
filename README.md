@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1600" height="220" src="./Header.png"  />
+  <img width="1500" height="100" src="./Header.png"  />
 </div>
 
 ###
@@ -35,6 +35,6 @@
 ###
 
 <div align="center">
- <img width="1600" height="100" src="./Footer.png"  /></div>
+ <img width="1600" height="50" src="./Footer.png"  /></div>
 
 ###
