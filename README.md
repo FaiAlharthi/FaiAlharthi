@@ -4,7 +4,23 @@
 
 ###
 
-<p align="left">Hi there 👋 I'm Fai!<br>🎓 I'm a Computer Science student at King Saud University and an iOS app developer certified by Apple Academy.<br><br>💡 passionate about building creative and user-friendly applications. I enjoy working on both web and mobile projects.<br><br>📱 iOS Development: SwiftUI, SpriteKit, Create ML<br>🌐 Web Development: HTML, CSS, JavaScript, PHP<br>🎨 Basic experience in UI/UX design and prototyping<br><br>Currently exploring AI tools and computer vision projects. Always eager to learn and create solutions that make a difference!<br><br>أهلًا! أنا فيّ<br>🎓 طالبة علوم حاسب بجامعة الملك سعود ومطورة تطبيقات iOS معتمدة من أكاديمية Apple.<br><br>💡 شغوفة بصناعة تطبيقات مبتكرة وسهلة الاستخدام، وأحب العمل على مشاريع الويب والتطبيقات.<br><br>📱 تطوير iOS باستخدام: SwiftUI، SpriteKit، Create ML<br>🌐 تطوير الويب باستخدام: HTML، CSS، JavaScript، PHP<br>🎨 لدي خبرة بسيطة في تصميم واجهات المستخدم (UI/UX)</p>
+<p align="left">Hi there 👋 I'm Fai!<br>
+🎓 a Computer Science student at King Saud University<br>
+📱 iOS app developer certified by Apple Academy.<br><br>
+💡 passionate about building creative and user-friendly applications. I enjoy working on both web and mobile projects.<br><br>
+📱 iOS Development: SwiftUI, SpriteKit, Create ML<br>
+🌐 Web Development: HTML, CSS, JavaScript, PHP<br>
+🎨 Basic experience in UI/UX design and prototyping<br><br>
+Currently exploring AI tools and computer vision projects. Always eager to learn and create solutions that make a difference!<br><br>
+
+أهلًا! أنا فيّ<br>
+🎓 طالبة علوم حاسب بجامعة الملك سعود<br>
+📱 مطورة تطبيقات iOS معتمدة من أكاديمية Apple.<br><br>
+💡 شغوفة بصناعة تطبيقات مبتكرة وسهلة الاستخدام، وأحب العمل على مشاريع الويب والتطبيقات.<br><br>
+📱 تطوير iOS باستخدام: SwiftUI، SpriteKit، Create ML<br>
+🌐 تطوير الويب باستخدام: HTML، CSS، JavaScript، PHP<br>
+🎨 لدي خبرة بسيطة في تصميم واجهات المستخدم (UI/UX)
+</p>
 
 ###
 
@@ -35,6 +51,5 @@
 ###
 
 <div align="center">
- <img width="1600" height="50" src="./Footer.png"  /></div>
-
-###
+ <img width="1600" height="50" src="./Footer.png"  />
+</div>
