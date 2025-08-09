@@ -13,14 +13,6 @@
 🎨 Basic experience in UI/UX design and prototyping<br><br>
 Currently exploring AI tools and computer vision projects. Always eager to learn and create solutions that make a difference!<br><br>
 
-أهلًا! أنا فيّ<br>
-🎓 طالبة علوم حاسب بجامعة الملك سعود<br>
-📱 مطورة تطبيقات iOS معتمدة من أكاديمية Apple.<br><br>
-💡 شغوفة بصناعة تطبيقات مبتكرة وسهلة الاستخدام، وأحب العمل على مشاريع الويب والتطبيقات.<br><br>
-📱 تطوير iOS باستخدام: SwiftUI، SpriteKit، Create ML<br>
-🌐 تطوير الويب باستخدام: HTML، CSS، JavaScript، PHP<br>
-🎨 لدي خبرة بسيطة في تصميم واجهات المستخدم (UI/UX)
-</p>
 
 ###
 
