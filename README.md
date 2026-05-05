@@ -6,7 +6,7 @@
 
 <p align="left">Hi there 👋 I'm Fai!<br>
   
-iOS Developer (SwiftUI)· CS @ KSU · Projects in health, culture & media · Open to SWE/iOS internships
+iOS Developer (SwiftUI)· CS @ KSU · Projects in health, culture & media ·
 
 🎓 a Computer Science student at King Saud University<br>
 📱 iOS app developer certified by Apple Academy.<br><br>
