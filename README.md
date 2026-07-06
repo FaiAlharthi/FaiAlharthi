@@ -5,14 +5,14 @@
 <h1 align="center">Fai Alharthi</h1>
 
 <p align="center">
-Senior Computer Science Student • Software Engineer • Full-Stack & iOS Developer
+Senior Computer Science Student • Full-Stack & iOS Developer
 </p>
 
 ---
 
 ## About
 
-I am a senior Computer Science student at King Saud University with a strong interest in software engineering, full-stack development, iOS development, and artificial intelligence.
+graduate from King Saud University in Computer Science major with a strong interest in software engineering, full-stack development, iOS development, and artificial intelligence.
 
 I completed professional training at the Apple Developer Academy and the Saudi Digital Academy, where I gained hands-on experience building production-ready applications and collaborating in agile development environments.
 
@@ -32,11 +32,11 @@ React • SwiftUI • HTML • CSS • JavaScript
 
 **Backend**
 
-FastAPI • REST APIs • SQLAlchemy • SQLite • PostgreSQL
+FastAPI • REST APIs • SQLAlchemy • SQLite 
 
 **Artificial Intelligence**
 
-TensorFlow • PyTorch • Scikit-learn • OpenCV • YOLOv8
+TensorFlow • PyTorch • Scikit-learn • YOLOv8
 
 **Tools & Technologies**
 
