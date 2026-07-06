@@ -5,7 +5,7 @@
 <h1 align="center">Fai Alharthi</h1>
 
 <p align="center">
-Senior Computer Science Student • Full-Stack & iOS Developer
+Full-Stack & iOS Developer
 </p>
 
 ---
