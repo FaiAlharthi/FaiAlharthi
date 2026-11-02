@@ -47,7 +47,7 @@ Software developer with experience building projects and systems using Java, Spr
 ## Contact | التواصل
 
 [![Email](https://img.shields.io/badge/Email-faialialharthi.d@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:faialialharthi.d@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fai%20Alharthi-0A66C2?logo=linkedin&logoColor=white)](PUT-YOUR-LINKEDIN-URL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fai%20Alharthi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fai-alharthi-82818219b/)
 
 <div align="center">
   <img width="1600" height="50" src="./Footer.png" />
