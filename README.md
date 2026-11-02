@@ -116,7 +116,7 @@ Generative AI · LLM Integration · RAG · Prompt Engineering
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-faialialharthi.d@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faialialharthi.d@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faialialharthi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faialialharthi.d@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fai%20Alharthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fai-alharthi-82818219b/)
 
 <div align="center">
