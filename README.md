@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  💻 Software Developer &nbsp;|&nbsp; ☕ Java & Spring Boot &nbsp;|&nbsp; 🤖 AI Enthusiast
+  💻 Software Developer &nbsp;|&nbsp; ☕ Full Stack Developer &nbsp;|&nbsp;
 </p>
 
 ---
