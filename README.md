@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  💻 Software Developer &nbsp;|&nbsp; ☕ Full Stack Developer &nbsp;|&nbsp;
+  💻 Software Developer &nbsp;|&nbsp; Full Stack Developer
 </p>
 
 ---
