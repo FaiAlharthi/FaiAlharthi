@@ -13,9 +13,9 @@ Software Developer<br>
 
 ## About | نبذة
 
-🇸🇦 مطورة برمجيات، لدي خبرة في بناء مشاريع وأنظمة باستخدام Java و Spring Boot و React و Python وعدد من التقنيات الأخرى. سبق أن التحقت بمعسكرات أكاديمية طويق،  إحدى خريجات أكاديمية Apple. مهتمة بحل مشاكل حقيقية عن طريق التقنية ودمج تقنيات الذكاء الاصطناعي.
-
-🇸🇦 Software developer with experience building projects and systems using Java, Spring Boot, React, Python, and other technologies. I attended Tuwaiq Academy bootcamps and I'm an Apple Developer Academy graduate. I'm interested in solving real problems with technology and integrating AI.
+ مطورة برمجيات، لدي خبرة في بناء مشاريع وأنظمة باستخدام Java و Spring Boot و React و Python وعدد من التقنيات الأخرى. سبق أن التحقت بمعسكرات أكاديمية طويق، إحدى خريجات أكاديمية Apple. مهتمة بحل مشاكل حقيقية عن طريق التقنية ودمج تقنيات الذكاء الاصطناعي. 
+ 
+Software developer with experience building projects and systems using Java, Spring Boot, React, Python, and other technologies. I attended Tuwaiq Academy bootcamps and I'm an Apple Developer Academy graduate. I'm interested in solving real problems with technology and integrating AI.
 
 ---
 
