@@ -16,7 +16,7 @@
 
 ---
 
-## 🙋‍♀️ About
+## About
 
 Software developer. I build projects and systems with Java, Spring Boot, React, Python, and more. I joined Tuwaiq Academy bootcamps and I graduated from Apple Developer Academy. I like solving real problems with technology and adding AI to my projects.
 
