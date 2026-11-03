@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  💻 Software Developer &nbsp;|&nbsp; Full Stack Developer
+  💻 Software Developer &nbsp;|&nbsp; ☕ Java & Spring Boot &nbsp;|&nbsp; 🤖 AI Enthusiast
 </p>
 
 ---
 
-## About
+## 🙋‍♀️ About
 
 Software developer. I build projects and systems with Java, Spring Boot, React, Python, and more. I joined Tuwaiq Academy bootcamps and I graduated from Apple Developer Academy. I like solving real problems with technology and adding AI to my projects.
 
@@ -63,6 +63,7 @@ Generative AI · LLM Integration · RAG · Prompt Engineering
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -77,7 +78,7 @@ Generative AI · LLM Integration · RAG · Prompt Engineering
 - REST API with Spring Boot and Spring Security to control who can use each endpoint.
 - Weekly group rules: how members pay, the minimum payment, and removing a member after repeated failures.
 - n8n automations connected to the API with a secret key.
-- Built with Java, Spring Boot, MySQL, and Flutter.
+- Built with Java, Spring Boot, MySQL, Docker, and Flutter.
 
 ### 💼 [Tumooh](https://github.com/FaiAlharthi/Tumooh-Capstone3) – AI Job Application Tracker
 - Tracks every job application, with 1,008 Saudi companies you can search by English name, Arabic name, or nickname.
@@ -116,7 +117,7 @@ Generative AI · LLM Integration · RAG · Prompt Engineering
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-faialialharthi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faialialharthi.d@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faialialharthi.d@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faialialharthi.d@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fai%20Alharthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fai-alharthi-82818219b/)
 
 <div align="center">
